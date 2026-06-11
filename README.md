@@ -1,1 +1,10 @@
-# bai1-ptud-di-dong
+# 1. Viết phần mềm trên công cụ Mit App inventor
+   (tập trung vào quy trình tạo ra phần mềm)
+   app có 3 screen:
+   + about về bản thân+nút gọi sang 2 screen còn lại
+   + giải 1 bài toán đơn giản
+   + sử dụng webview: hiển thị 1 trang web có sẵn, hỗ trợ giao diện điện thoại
+   mô tả: thanh công cụ có gì? kéo thả + thay đổi thuộc tính: làm ntn, để làm gì?
+          block: mô tả bản chất việc kéo thả block ntn?
+                 ưu điểm gì so với viết code? nhược điểm?
+                 copy paste block ? (backpack)
