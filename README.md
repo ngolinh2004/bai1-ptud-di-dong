@@ -10,6 +10,7 @@
                  copy paste block ? (backpack)
 ## BÀI LÀM
 App có 3 screen:
+
 •	Giao diện trang web : MIT APP INVENTOR
 <img width="706" height="176" alt="image" src="https://github.com/user-attachments/assets/afa4e133-11f6-49f7-88d9-1b9b0a1b90f0" />
 
@@ -66,11 +67,13 @@ HomeUrl : https://k58kmt.tdh.io.vn?masv=K225480106038
 
 
 o	Mô tả : 
+
 o	Thanh công cụ có :
 -	Palette: Chứa các thành phần như Button, Label, TextBox, Image,... 
 -	Viewer: Khu vực thiết kế giao diện ứng dụng. 
 -	Components: Hiển thị danh sách các đối tượng đã thêm vào Screen. 
 -	Properties: Thay đổi thuộc tính của đối tượng (Text, màu sắc, kích thước,...).
+  
 o	Kéo thả và thay đổi thuộc tính
 -	Chọn thành phần trong Palette rồi kéo vào Viewer. 
 -	Chọn đối tượng và chỉnh sửa trong Properties. 
